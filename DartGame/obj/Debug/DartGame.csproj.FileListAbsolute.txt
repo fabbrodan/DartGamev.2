@@ -1,0 +1,10 @@
+c:\users\das\source\repos\DartGame\DartGame\obj\Debug\DartGame.csprojResolveAssemblyReference.cache
+c:\users\das\source\repos\DartGame\DartGame\obj\Debug\DartGame.Properties.Resources.resources
+c:\users\das\source\repos\DartGame\DartGame\obj\Debug\DartGame.csproj.GenerateResource.cache
+c:\users\das\source\repos\DartGame\DartGame\obj\Debug\DartGame.csproj.CoreCompileInputs.cache
+C:\Users\DAS\source\repos\DartGame\DartGame\bin\Debug\DartGame.exe.config
+C:\Users\DAS\source\repos\DartGame\DartGame\bin\Debug\DartGame.exe
+C:\Users\DAS\source\repos\DartGame\DartGame\bin\Debug\DartGame.pdb
+C:\Users\DAS\source\repos\DartGame\DartGame\obj\Debug\DartGame.Form1.resources
+C:\Users\DAS\source\repos\DartGame\DartGame\obj\Debug\DartGame.exe
+C:\Users\DAS\source\repos\DartGame\DartGame\obj\Debug\DartGame.pdb
